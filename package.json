@@ -1,0 +1,23 @@
+{
+  "name": "projetointernet",
+  "version": "1.0.0",
+  "description": "Projeto exemplo",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/newvictorhugo/projetointernet.git)"
+  },
+  "keywords": [
+    "exemplo"
+  ],
+  "author": "victor",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
